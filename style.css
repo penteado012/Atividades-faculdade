@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+body {
+    height: 100%;
+    background-image: url('imagens/fundo-do-site-pagina-principal.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+header < h1{
+    
+}
